@@ -6,7 +6,6 @@ asked to predict demand for rides in a certain region and a given future time wi
 This would help them allocate drivers more intelligently to meet the ride requests
 from users.
 
-
 Goal:
 You have to predict ride requests (demand forecast) for a particular latitude
 and longitude for a requested future time window/duration.
