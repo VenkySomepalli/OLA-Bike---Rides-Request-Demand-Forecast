@@ -13,8 +13,8 @@ and longitude for a requested future time window/duration.
 
 Data Description:
 Raw Data contains a `number` (unique for every user), ride request DateTime (IST
-time),
-pickup and drop location latitude, and longitude.
+time), pickup and drop location latitude, and longitude.
+
 Data Fields
 1. number: unique id for every user
 2. ts: DateTime of booking ride (IST time)
